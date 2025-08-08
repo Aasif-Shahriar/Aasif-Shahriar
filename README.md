@@ -6,6 +6,7 @@
   <h3>🚀 MERN Stack Developer</h3>
   <p>📍 Bangladesh | 🌍 Open to remote opportunities</p>
   <p>📧 Email: asifshahriar247@gmail.com</p>
+  <p>🟢 WhatsApp: +880 1868 381701</p>
 </div>
 
 ---
