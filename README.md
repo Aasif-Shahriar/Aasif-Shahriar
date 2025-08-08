@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Asif%20Shahriar&fontSize=60&fontColor=fff&animation=twinkling" />
+ <img src="https://i.postimg.cc/QVZVN87S/Maroon-Modern-Software-Developer-Facebook-Cover.png" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
