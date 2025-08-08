@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.postimg.cc/QVZVN87S/Maroon-Modern-Software-Developer-Facebook-Cover.png" alt="Banner" width="100%" />
+ <img src="https://i.postimg.cc/YCZDrjqQ/development-with-abstract-background-2.jpg" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
