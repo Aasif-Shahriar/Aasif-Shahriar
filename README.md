@@ -63,7 +63,7 @@ I'm a lifelong learner and love collaborating on impactful projects.
       <img src="https://github-readme-stats.vercel.app/api?username=Aasif-Shahriar&show_icons=true&theme=merko" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Aasif-Shahriar&theme=merko" />
+    <img src="https://streak-stats.vercel.app?user=Aasif-Shahriar&theme=merko" />
     </td>
   </tr>
   <tr>
