@@ -43,7 +43,7 @@ I'm a lifelong learner and love collaborating on impactful projects.
 
 ### 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/asif-shahriar01">
+<a href="https://linkedin.com/in/asif-shahriar01" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/Asif_Al_Azad201">
