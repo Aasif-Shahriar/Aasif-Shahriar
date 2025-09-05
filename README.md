@@ -1,9 +1,10 @@
+
 <div align="center">
- <img src="https://i.postimg.cc/YCZDrjqQ/development-with-abstract-background-2.jpg" alt="Banner" width="100%" />
+ <img src="https://res.cloudinary.com/dnh9rdh01/image/upload/v1757095696/banner_for_github_fpdbci.png" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
-  <h3>🚀 MERN Stack Developer</h3>
+  <h3>🚀 Front-End Developer</h3>
   <p>📍 Bangladesh | 🌍 Open to remote opportunities</p>
   <p>📧 Email: asifshahriar247@gmail.com</p>
   <p>🟢 WhatsApp: +880 1868 381701</p>
@@ -22,7 +23,7 @@ I'm a lifelong learner and love collaborating on impactful projects.
 ### 🔨 Currently Working On
 
 - 🔍 Exploring **Next.js**
-- 🚧 Building my **Developer Portfolio**
+- Solving Problems on HackerRank
 - 🌐 Enhancing **EduLearn** (Course platform)
 - 🎁 Upgrading **AluWish** (Gifting web app)
 
