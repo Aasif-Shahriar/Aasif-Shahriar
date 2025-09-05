@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://res.cloudinary.com/dnh9rdh01/image/upload/v1757095696/banner_for_github_fpdbci.png" alt="Banner" width="100%" />
+ <img src="https://res.cloudinary.com/dnh9rdh01/image/upload/v1757097195/banner_for_github_fpdbci.jpg" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
